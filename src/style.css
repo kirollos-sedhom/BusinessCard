@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+}
+.PP{
+    width: 100%;
+    overflow: hidden;
+    /* height: 100%; */
+    flex-grow: 1;
+}
+ .crop {
+
+        height: 140px;
+        overflow: hidden;
+}
+body{
+    background-color: #23252C;
+    
+}
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
+ .Footer{
+     background-color: #161619;
+     display: flex;
+     margin-top: auto;
+     justify-content:center;
+ }
+ 
+ .Footer > *{
+     padding: 10px;
+     color:#918E9B;
+     font-size: 25px;
+ }
+ 
+ .Container{
+    border-radius: 10px;
+    height: 80vh;
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    /* color:white; */
+    /* border: solid; */
+    font-family: 'Inter', sans-serif;
+    /* margin-top: 100px; */
+
+    }
+#job{
+    color:#F3BF99;
+    font-size: 12.8px;
+    /* color:black; */
+}
+.MainContent{
+    color: white;
+    background-color: #1A1B21;
+    /* height: 100vh; */
+    flex-grow: 1;
+}
+.Uname{
+    font-size:25px;
+    font-weight: bold;
+
+
+
+}
+.DotSite{
+    font-size:10.24px;
+}
+.intro{
+    text-align: center;
+}
+
+.TwinButtons{
+    display: flex;
+    
+    /* justify-content:space-around; */
+    /* justify-content: space-between; */
+    /* justify-items:initial; */
+    /* border: solid; */
+    /* margin:auto; */
+    justify-content:space-between;
+}
+
+.TwinButtons > * {
+    /* margin: 1vw; */
+    /* margin:auto; */
+    border: none;
+}
+
+.MailButton, .LinkedButton{
+     background-color: white;
+     padding: 10px;
+     border-radius: 5px;
+     /* color: red; */
+     
+}
+.LinkedButton{
+    background-color: #5093E2;
+}
+button i{
+    margin-right: 5px;
+}
+.Description{
+    
+    text-align: left;
+    margin-left: auto;
+}
+.Description h2{
+    color: #F5F5F5;
+}
+.Description p {
+    color:#DCDCDC;
+}
+.ButtonDetails{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    /* border: solid; */
+    /* flex:1; */
+}
+
