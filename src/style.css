@@ -5,11 +5,14 @@
     width: 100%;
     overflow: hidden;
     /* height: 100%; */
-    flex-grow: 1;
+    /* flex-grow: 1; */
+    /* padding: 50px; */
+    /* margin-bottom: 1000px; */
+    /* margin: 100px; */
 }
  .crop {
 
-        height: 140px;
+        height: 200px;
         overflow: hidden;
 }
 body{
@@ -35,7 +38,7 @@ body{
  
  .Container{
     border-radius: 10px;
-    height: 80vh;
+    height: 40vh;
     width: 50%;
     margin: auto;
     display: flex;
@@ -74,12 +77,6 @@ body{
 
 .TwinButtons{
     display: flex;
-    
-    /* justify-content:space-around; */
-    /* justify-content: space-between; */
-    /* justify-items:initial; */
-    /* border: solid; */
-    /* margin:auto; */
     justify-content:space-between;
 }
 
