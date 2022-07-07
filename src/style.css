@@ -91,9 +91,7 @@ body{
     justify-content:space-between;
 }
 
-.TwinButtons > * {
-    /* margin: 1vw; */
-    /* margin:auto; */
+button{
     border: none;
 }
 
