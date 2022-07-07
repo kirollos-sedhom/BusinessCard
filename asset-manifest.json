@@ -1,13 +1,13 @@
 {
-  "main.css": "/BusinessCard/static/css/main.faa12717.chunk.css",
-  "main.js": "/BusinessCard/static/js/main.0a460fb4.chunk.js",
-  "main.js.map": "/BusinessCard/static/js/main.0a460fb4.chunk.js.map",
+  "main.css": "/BusinessCard/static/css/main.4fd89ec1.chunk.css",
+  "main.js": "/BusinessCard/static/js/main.bb5c8da9.chunk.js",
+  "main.js.map": "/BusinessCard/static/js/main.bb5c8da9.chunk.js.map",
   "static/js/1.bbec7dc8.chunk.js": "/BusinessCard/static/js/1.bbec7dc8.chunk.js",
   "static/js/1.bbec7dc8.chunk.js.map": "/BusinessCard/static/js/1.bbec7dc8.chunk.js.map",
   "runtime~main.js": "/BusinessCard/static/js/runtime~main.524e78bb.js",
   "runtime~main.js.map": "/BusinessCard/static/js/runtime~main.524e78bb.js.map",
-  "static/css/main.faa12717.chunk.css.map": "/BusinessCard/static/css/main.faa12717.chunk.css.map",
+  "static/css/main.4fd89ec1.chunk.css.map": "/BusinessCard/static/css/main.4fd89ec1.chunk.css.map",
   "index.html": "/BusinessCard/index.html",
-  "precache-manifest.89b4ebc1309b1df016fafd1184dcef47.js": "/BusinessCard/precache-manifest.89b4ebc1309b1df016fafd1184dcef47.js",
+  "precache-manifest.d4d66cd97d8d39b9e1e903b39d511843.js": "/BusinessCard/precache-manifest.d4d66cd97d8d39b9e1e903b39d511843.js",
   "service-worker.js": "/BusinessCard/service-worker.js"
 }
